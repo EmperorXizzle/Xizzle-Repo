@@ -1,0 +1,14 @@
+Package: me.nepeta.relocatereborn 
+Name: Relocate Reborn 
+Version: 1.0.1 
+Architecture: iphoneos-arm 
+Description: Minimalist GPS spoofer (free, iOS 13+) 
+Maintainer: Nepeta 
+Author: Nepeta 
+Section: Tweaks 
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader 
+Filename: ./debfiles/me.nepeta.relocatereborn_1.0.1_iphoneos-arm.deb
+Size: 492 
+MD5sum: BF55710ACE3C2BFF0F1280E3DE3DF2EF 
+SHA1: C93C139845B2FBC6169FAECC85E79215E3483FC7 
+SHA256: c38e629228315dbda468aa566ffc192cb9d61800ca10bc6aa89ac8a1b76b4614
